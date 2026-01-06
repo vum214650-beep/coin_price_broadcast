@@ -60,5 +60,3 @@ pip install requests
 Tag: alert<br>
 🚨 恭喜！有代币达到目标成本价！<br>
 
-![image](https://github.com/vum214650-beep/coin_price_broadcast/blob/main/73D1B0E6-785E-4BE0-9C43-7594035C5DB0.png)<br>
-

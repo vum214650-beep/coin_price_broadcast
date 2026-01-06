@@ -1,10 +1,3 @@
-# coin_price_broadcast
-币圈行情播报
-如何运行:<br>
-1、创建一个钉钉机器人，创建的时候选择"加签"<br>
-将钉钉机器人中的webhook token和sectoken填到脚本中<br>
-2、自己想看那些币的行情就修改成哪个币
-
 
 # 📈 Personal Crypto Monitor (DingTalk Alert)
 
@@ -34,3 +27,7 @@
 
 ```bash
 pip install requests
+
+## ✨ 告警如图
+
+![image](https://github.com/vum214650-beep/coin_price_broadcast/blob/main/73D1B0E6-785E-4BE0-9C43-7594035C5DB0.png)<br>
